@@ -1,3 +1,5 @@
+const findTargetInArray = require('../src/index.js');
+
 describe('Testing the function findTargetInArray', () => {
   it('Should return index of target number when it is in the middle of the array', () => {
     let testArray = [1, 3, 4, 5, 6, 8, 9];
