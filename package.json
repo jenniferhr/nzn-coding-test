@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jenniferhr/nzn-coding-test/issues"
   },
-  "homepage": "https://github.com/jenniferhr/nzn-coding-test#readme"
+  "homepage": "https://github.com/jenniferhr/nzn-coding-test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
